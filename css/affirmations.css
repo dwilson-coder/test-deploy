@@ -9,6 +9,27 @@
 
   .result img{
     margin: 10px 20px;
-    object-fit: cover;
+    
     object-position: center;
+    border-radius: .25rem;
+    /* max-width: 100%; */
+    max-width: 350px;
+    height: auto;
+    padding: .25rem;
+    background-color: #fff;
+    border-radius: .25rem;
+    
   }
+
+.affirmation_image{
+  border-radius: 20px;
+  object-fit: cover;
+  transition: .5s;
+}
+
+.affirmation_image:hover{
+  transition: .5s;
+  transform: scale(.8);
+  border: 1px solid #dee2e6;
+  border-radius: 20px;
+}

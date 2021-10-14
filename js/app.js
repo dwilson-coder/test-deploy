@@ -13,7 +13,7 @@ const affirmations = data.map((affirmation)=>{
 
   return `<div>
   <a href="${link}" target="_blank" rel="noopener">
-<div class="block"><img src="${url}" alt="${date}" class="img-fluid"></div>
+<div class="block"><img src="${url}" alt="${date}" class="affirmation_image"></div>
 <h5>${name}</h5>
 </a></div>`
 }).join('')
