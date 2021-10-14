@@ -1,0 +1,14 @@
+.result{
+    position: absoulte;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 300px));
+  }
+
+  .result img{
+    margin: 10px 20px;
+    object-fit: cover;
+    object-position: center;
+  }

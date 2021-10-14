@@ -1,0 +1,468 @@
+{
+    "items": [
+		{
+			"title": "I Am A Victor",
+			"image": "events/images/event_1.jpg",
+			"day": "13",
+			"month": "04",
+			"year": "2021",
+			"time": "08:00 pm (nightly)",
+			"duration": "3",
+			"color": "1",
+			"location": "Virtual Book Launch!",
+			"description": "<p>We're excited to invite you to join us for our 3-day Virtual Book Launch for the book anthology, I AM A VICTOR.  You will get to meet and hear from our amazing cohort of authors on Tuesday-Thursday, April 13-15, 2021 at 8:00pm ET each evening.</p><p><a href='https://pe174.infusionsoft.app/app/form/iaavbooklaunch?cookieUUID=4f5852c6-e9b6-4c8e-a0a4-ab8958a1de85'rel='noopener' target='_blank'>REGISTRATION FORM</a></p>"
+			
+		},
+											{
+			"title": "I Am A Victor Virtual Summit",
+			"image": "events/images/event_1.jpg",
+			"day": "19",
+			"month": "02",
+			"year": "2021",
+			"time": "",
+			"duration": "1",
+			"color": "2",
+			"location": "Virtual Summit!",
+			"description": "<p>Watch my 12 minute Power Talk</p><p><iframe width=\"450\" height=\"315\" src=\"https://www.youtube.com/embed/NCxHYD-4Lhs\" /title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></p>"
+		},
+		{
+			"title": "Toastmasters District 18 District Executive Committee Meeting",
+			"image": "events/images/event_2.jpg",
+			"day": "21",
+			"month": "01",
+			"year": "2021",
+			"time": "",
+			"duration": "1",
+			"color": "2",
+			"location": "Virtual Event",
+			"description": "<p>Toastmasters District 18 District Executive Committee Meeting. Virtual- Speaker. Training on Diversity, Equity and Inclusion</p>"
+		},
+		{
+			"title": "JPMC Toastmasters Club",
+			"image": "events/images/event_3.jpg",
+			"day": "04",
+			"month": "02",
+			"year": "2021",
+			"time": "07:00 pm - 10:30 pm",
+			"duration": "2",
+			"color": "3",
+			"location": "Virtual Event",
+			"description": "<p>Discussed my Journey and how Toastmasters changed the trajectory of my life. Followed by Q&A.</p>"
+		},
+
+		{
+			"title": "YOU Are Enough!",
+			"image": "events/images/event_4.jpg",
+			"day": "25",
+			"month": "06",
+			"year": "2021",
+			"time": "09:00 pm",
+			"duration": "3",
+			"color": "4",
+			"location": "Virtual Event",
+			"description": "<p><iframe width=\"450\" height=\"315\" src=\"https://www.youtube.com/embed/xOZH4-e3JwU\" /title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></p><p>Two full days of education, inspiration, and empowerment to remind you that you are enough to thrive regardless of setbacks, to bounce back in spite of challenges, and to live your best life NOW!</p>"
+		},
+
+				{
+			"title": "BNY Mellon Toastmasters Club",
+			"image": "events/images/event_3.jpg",
+			"day": "24",
+			"month": "03",
+			"year": "2021",
+			"time": "08:00 pm",
+			"duration": "1",
+			"color": "5",
+			"location": "Virtual Event",
+			"description": "<p>Discussed my Journey and how Toastmasters changed the trajectory of my life. Followed by Q&A.</p>"
+		},
+						{
+			"title": "Being Brown At Work",
+			"image": "events/images/brown-at_work.jpg",
+			"day": "27",
+			"month": "04",
+			"year": "2021",
+			"time": "08:00 pm",
+			"duration": "1",
+			"color": "1",
+			"location": "Virtual Event",
+			"description": "<iframe src='https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FTheTeeWithLinda%2Fvideos%2F285949539778467%2F&show_text=false&width=560&t=0' width='560' height='314' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe><br><a href='https://www.facebook.com/watch/live/?v=285949539778467&ref=watch_permalink'rel='noopener' target='_blank'></a>"
+		},
+								{
+			"title": "The Author's Show",
+			"image": "events/images/authors_show.jpg",
+			"day": "11",
+			"month": "02",
+			"year": "2021",
+			"time": "",
+			"duration": "1",
+			"color": "1",
+			"location": "Virtual Event",
+			"description": "<p>Being Brown At Work- Facebook Live with Host Linda Taliaferro.</p><p><figure><figcaption>Listen to the T-Rex:</figcaption><audio controls src=https://nebula.wsimg.com/c732432f400e96ee1165802f16b005ba?AccessKeyId=B3A83250590DE653AB37&disposition=0&alloworigin=1>Your browser does not support the <code>audio</code> element. </audio></figure>"
+		},
+										{
+			"title": "The Future Is Now",
+			"image": "events/images/future_now-01.jpg",
+			"day": "08",
+			"month": "02",
+			"year": "2021",
+			"time": "",
+			"duration": "3",
+			"color": "1",
+			"location": "Virtual Conference",
+			"description": "<p>Panel Member and Moderator for sessions at The Future is Now 2021 Virtual Conference</p><p><img src='events/images/future_now-02.jpg' alt='event flyer' width='400'></p><p><img src='events/images/future_now-03.jpg' alt='event flyer' width='400'></p>"
+		},
+
+												{
+			"title": "Launch Of My LEAP Series",
+			"image": "events/images/leap_series.png",
+			"day": "01",
+			"month": "01",
+			"year": "2019",
+			"time": "",
+			"duration": "1",
+			"color": "4",
+			"location": "Virtual Conference",
+			"description": "Launch of my book! First of the LEAP Series."
+		},
+										{
+			"title": "The Going North Podcast",
+			"image": "events/images/going_north_podcast.jpg",
+			"day": "11",
+			"month": "02",
+			"year": "2019",
+			"time": "",
+			"duration": "1",
+			"color": "2",
+			"location": "Going North Podcast",
+			"description": "<p>A Passion for High Performance & Professional Development</p><p><iframe width=\"450\" height=\"315\" src=\"https://www.youtube.com/embed/VePbBqr_b94\" /title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></p>"
+		},
+
+									{
+			"title": "Speaking Palooza",
+			"image": "events/images/speaking_palooza.jpg",
+			"day": "16",
+			"month": "07",
+			"year": "2019",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "Online Article",
+			"description": "<p>Part of the Speaking Palooza! Click here to <a href='https://www.publicspeakingsuperpowers.com/voice-presence-public-speaking/'rel='noopener' target='_blank'>read my contributing article</a></p>"
+			
+		},
+
+											{
+			"title": "Speaking Palooza",
+			"image": "events/images/highmark_event.jpg",
+			"day": "27",
+			"month": "09",
+			"year": "2019",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "",
+			"description": "<p>Highmark BNET Business Resource Group, Pittsburgh, PA. Facilitated workshop Ego vs. Opportunity: Shift ‘NEED’ to ‘LEAD’</p>"
+			
+		},
+
+		
+												{
+			"title": "New England Research Association (NERA)",
+			"image": "events/images/nera-01.jpg",
+			"day": "16",
+			"month": "10",
+			"year": "2019",
+			"time": "",
+			"duration": "3",
+			"color": "3",
+			"location": "Video",
+			"description": "<p>Participated in the New England Research Association (NERA) Annual conference as a speaker in the 3MT (Three-minute thesis) competition and shared my dissertation research during a poster presentation session.</p><p><img src='events/images/nera-02.jpg' alt='event flyer' width='400'></p><p><img src='events/images/nera-video.jpg' alt='event flyer' width='400'></p><a href='https://www.dropbox.com/s/to0znsy5sdkn9ox/20191016_212151.mp4?dl=0'rel='noopener' target='_blank'>Watch my video thesis here</a><p></p>"
+			
+		},
+
+														{
+			"title": "VA Toastmasters Club",
+			"image": "events/images/va_toastmasters.jpg",
+			"day": "18",
+			"month": "07",
+			"year": "2018",
+			"time": "05:00 pm",
+			"duration": "1",
+			"color": "3",
+			"location": "Pittsburgh, PA",
+			"description": "<p>VA Toastmasters Club in Pittsburgh, PA. Keynote speaker for their open house</p>"
+			
+		},
+
+																{
+			"title": "CPCU Annual Leadership Summit",
+			"image": "events/images/cpcu.jpg",
+			"day": "19",
+			"month": "04",
+			"year": "2018",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "Baltimore, MD",
+			"description": "<p>CPCU Annual Leadership Summit in Baltimore, MD.  Part of a team that provided Website Tips and Tricks to Chapter and Interest Group Leaders</p>"
+			
+		},
+
+		
+																{
+			"title": "District 13 Toastmasters Fall Conference",
+			"image": "events/images/district13-toastmasters.jpg",
+			"day": "28",
+			"month": "10",
+			"year": "2017",
+			"time": "",
+			"duration": "1",
+			"color": "1",
+			"location": "",
+			"description": "<p>District 13 Toastmasters Fall Conference Speaker- Seminar 'Leading Teams from the Strategy to Their Seats'</p>"
+			
+		},
+
+												{
+			"title": "CSC Incorporators Toastmasters Club",
+			"image": "events/images/csc-toastmasters.jpg",
+			"day": "31",
+			"month": "03",
+			"year": "2017",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "",
+			"description": "<p>CSC Incorporators Toastmasters Club.  Facilitated a workshop on the 'Characteristics of Effective Leaders' using the Leadership Style 4-Dimensional Model developed by Dr. Karl Albrecht</p><p><img src='events/images/csc-toastmasters-02.jpg' alt='event flyer' width='400'></p>"
+			
+		},
+
+
+												{
+			"title": "CPCU Annual Leadership Summit",
+			"image": "events/images/cpcu-April21.jpg",
+			"day": "21",
+			"month": "04",
+			"year": "2017",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "Baltimore, MD",
+			"description": "<p>CPCU Annual Leadership Summit in Baltimore, MD.  Part of a Panel Discussion on Volunteer Member Engagement</p>"
+			
+		},
+
+													{
+			"title": "Toastmasters District 18 Division A Contest",
+			"image": "events/images/toastmasters-April8.jpg",
+			"day": "08",
+			"month": "04",
+			"year": "2017",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "Newark, DE",
+			"description": "<p>Facilitated the 'Evaluation Erudition' and provided the audience the Do's and Don'ts of evaluation</p>"
+			
+		},
+
+													{
+			"title": "Philly I-Day",
+			"image": "events/images/philly-I-day.jpg",
+			"day": "23",
+			"month": "03",
+			"year": "2017",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "Philadelphia, PA",
+			"description": "<p>Participated in a panel titled, 'Can't we all just get along? Multi-generations in the workplace'</p>"
+			
+		},
+
+												{
+			"title": "Virtual- Onyx Woman Network",
+			"image": "events/images/own.jpg",
+			"day": "29",
+			"month": "12",
+			"year": "2020",
+			"time": "",
+			"duration": "1",
+			"color": "4",
+			"location": "Virtual",
+			"description": "<p>Virtual- Onyx Woman Network- part of a panel discussion 'Women & Workplace Wellness'</p>"
+			
+		},
+
+											{
+			"title": "Virtual Toastmasters Event",
+			"image": "events/images/toastmasters-december5.jpg",
+			"day": "05",
+			"month": "12",
+			"year": "2020",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "Virtual",
+			"description": "<p>Virtual Toastmasters event - part of a presentation on Diversity, Equity and Inclusion</p>"
+			
+		},
+
+											{
+			"title": "Weatherhead School of Management Healthcare Club",
+			"image": "events/images/weatherhead.jpg",
+			"day": "06",
+			"month": "11",
+			"year": "2020",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "Virtual / Western Reserve University",
+			"description": "<p>Virtual- Speaker at the Weatherhead School of Management Healthcare Club at Case Western Reserve University. Talked about my Journey in insurance, finance and leadership!</p>"
+			
+		},
+
+									{
+			"title": "Highmark Black Employee Business Resource Group",
+			"image": "events/images/highmark_event-02.jpg",
+			"day": "30",
+			"month": "09",
+			"year": "2020",
+			"time": "",
+			"duration": "1",
+			"color": "2",
+			"location": "Virtual",
+			"description": "<p>Highmark Black Employee Business Resource Group, Pittsburgh, PA. Facilitated a workshop on how to shift mindset and to shape one’s performance appraisal narrative</p>"
+			
+		},
+			
+												{
+			"title": "Rebound, Rewind & Reset",
+			"image": "events/images/own-02.jpg",
+			"day": "27",
+			"month": "08",
+			"year": "2020",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "Video",
+			"description": "<p>Virtual- Onyx Woman Network- part of a panel discussion 'Rebound, Rewind & Reset for Recovery'</p><p><img src='events/images/own-03.jpg' alt='event flyer'></p><p>Click here to <a href='images/Rebound_Rewind_Reset.pdf'rel='noopener' target='_blank'>read some of the comments I shared</a>  about Rebounding, Rewinding and Resetting</p>"
+			
+		},
+
+				
+												{
+			"title": "John Hopkins University",
+			"image": "events/images/johnhopkins.jpg",
+			"day": "30",
+			"month": "01",
+			"year": "2020",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "John Hopkins University, Baltimore, MD",
+			"description": "<p>John Hopkins University- Carey School of Business</p>"
+			
+		},
+
+
+														{
+			"title": "The Leadership Experience Tour",
+			"image": "events/images/leadership_event.jpg",
+			"day": "18",
+			"month": "09",
+			"year": "2021",
+			"time": "",
+			"duration": "01",
+			"color": "3",
+			"location": "Embassy Suites By Hilton. Troy, MI",
+			"description": "<p>Guest speaker: Dr. Elizabeth Carter.</p><p><iframe width='450' height='315' src='https://www.youtube.com/embed/5xmmwycmYLI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></p>"
+			
+		},
+
+																{
+			"title": "NRWA 2021 Conference",
+			"image": "events/images/NRWA_2021Conference.png",
+			"day": "20",
+			"month": "09",
+			"year": "2021",
+			"time": "1:15 p.m. – 2:45 p.m",
+			"duration": "01",
+			"color": "2",
+			"location": "Virtual",
+			"description": "Workshop at the National Resume Writers Association Annual Conference. Use this <a href='https://thenrwa.com/2021Conference_Agenda' rel='noopener' target='_blank'>link to see the event agenda</a>."
+			
+		},
+
+																{
+			"title": "Black Speakers Network",
+			"image": "events/images/bsn_event.jpg",
+			"day": "09",
+			"month": "07",
+			"year": "2021",
+			"time": "",
+			"duration": "01",
+			"color": "2",
+			"location": "Virtual",
+			"description": "<p>Black Speakers Network Episode 007, Meet Dr. Carter and her 3 Reasons You Are Stuck On Safe</p><p>Use <a href='https://podcasts.apple.com/us/podcast/black-speakers-network-ep7-three-reasons-you-are-stuck/id1564626955?i=1000528370433'rel='noopener' target='_blank'>this link to listen to the episode</a>.</p>"
+			
+		},
+		
+
+
+
+																{
+			"title": "The Institutes CPCU Society",
+			"image": "events/images/CPCU_ChoosetoChallenge2.jpg",
+			"day": "10",
+			"month": "08",
+			"year": "2021",
+			"time": "2:00pm",
+			"duration": "01",
+			"color": "2",
+			"location": "Virtual",
+			"description": "<p>She Leads - A Conversation with Female Industry Leaders on How They Choose to Challenge and How You Can Too."
+			
+		},
+
+
+													{
+			"title": "Pittsburgh-Mon Valley forum",
+			"image": "events/images/drcarter.jpg",
+			"day": "28",
+			"month": "05",
+			"year": "2020",
+			"time": "",
+			"duration": "1",
+			"color": "3",
+			"location": "Virtual / Pittsburgh, PA",
+			"description": "<p>Pittsburgh-Mon Valley Black Women Leaders Solutions Virtual Forum. Discussion in response to the results of the report on Pittsburgh's Inequality Across Gender and Race. My talk was on what corporations can do differently in hiring Black Women.</p>"
+			
+		},
+
+		{
+			"title": "Toastmasters",
+			"image": "events/images/toastmasters.png",
+			"day": "23",
+			"month": "08",
+			"year": "2021",
+			"time": "Virtual",
+			"duration": "5",
+			"color": "2",
+			"location": "Virtual / Pittsburgh, PA",
+			"description": "<p>Visit <a href='https://www.toastmasters.org/Events/2021%20International%20Convention/Education%20Sessions/LeadershipProfessionalDevelopment-AdvanceCareer'rel='noopener' target='_blank'>this link for more information</a>.</p>"
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	]
+}
